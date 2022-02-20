@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sirojiddin Khamidov
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and JS (mostly python but now learning JS ))) )
+- 🌱 I’m currently learning JS
 - #💞️ I’m looking to collaborate on ...
 - 📫 sirojiddin89@gmail.com or @KhamidovSirojiddin on telegram
 
