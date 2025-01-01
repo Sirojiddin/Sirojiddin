@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sirojiddin Khamidov
-- 👀 I’m interested in Islam
-- 🌱 I’m currently learning JS
+- 👀 I’m interested ...
+- 🌱 I’m currently learning ...
 - 📫 sirojiddin89@gmail.com or @KhamidovSirojiddin on telegram
 - 📞 UZ: 998 90 9354239 US: 615 991 8680
